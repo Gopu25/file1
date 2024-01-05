@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Biodata</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            text-align: center;
+            padding: 2em 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ecf0f1;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #2c3e50;
+        }
+
+        h2 {
+            border-bottom: 2px solid #34495e;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        .project {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #34495e;
+            padding-bottom: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sreelakshmi</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Name: SREELAKSHMI.S</p>
+        <p>Program: COMPUTER HARDWARE ENGINEERING</p>
+        <p>University: KERALA TECHNICAL UNIVERSITY</p>
+        <p>Email: sreelakshmisfpc@gmail.com</p>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>Description: CALCULATOR.</p>
+            <p>Skills Used: HTML, CSS, JavaScript, etc.</p
+        <ol>
+            <li>
+                <a href="calculator">calculator</a>
+            </li>
+        </ol>
+        </div>
+
+        <div class="project">
+            <h3>Project 2</h3>
+            <p>Description: VOTE.</p>
+            <p>Skills Used: HTML, CSS, JavaScript, etc.</p
+        <ol>
+            <li>
+                <a href="vote">vote</a>
+            </li>
+        </ol>
+        <ol>
+
+        </div>
+        <div class="project">
+            <h3>Project 3</h3>
+            <p>Description: </p>
+            <p>Skills Used: HTML, CSS, JavaScript, etc.</p
+        <ol>
+            <li>
+                <a href=https://vismaya14.pythonanywhere.com/products/>olx</a>
+            </li>
+        </ol>
+        <ol>
+
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <footer>
+        &copy; 2023  Sreelakshmi
+    </footer>
+</body>
+</html>
